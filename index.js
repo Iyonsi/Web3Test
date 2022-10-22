@@ -14,4 +14,17 @@ function Facilitator(name, gender){
 var facilitator = new Facilitator();
 
 var facility = [];
-var bedroom = []
+var conferenceRoom = [];
+var bedroom = [];
+
+function AdmitFacilitator(facilitator){
+    
+    if(facility <= 12){
+        
+    }
+
+}
+
+function AdmitDeveloper(developler){
+
+}
